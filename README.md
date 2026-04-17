@@ -124,6 +124,9 @@ Os componentes foram organizados seguindo a lógica de Atomic Design, separando 
 ### 7. Dashboard com dados reais do próprio CRUD
 O dashboard foi construído a partir dos livros e notas cadastrados pelo próprio usuário, evitando dados estáticos e tornando a interface mais coerente com a proposta da aplicação.
 
+### 8. Vitest para testes unitários
+Foram criados testes de service para validar regras centrais da aplicação, como autenticação e operações com livros.
+
 ---
 
 ## Estrutura do projeto
