@@ -79,8 +79,7 @@ export default function ShelvesPage() {
               </h1>
 
               <p className="mt-2 max-w-2xl text-zinc-600">
-                Crie estantes automáticas por gênero e/ou estado de leitura.
-                Os livros entram nelas sozinhos conforme os dados cadastrados.
+                Crie estantes para categorizar seus livros.
               </p>
             </div>
 
