@@ -74,7 +74,9 @@ export default function CrudPage() {
         <div className="space-y-8">
           <div className="flex items-center justify-between gap-4">
             <div>
-              <h2 className="text-xl font-semibold text-zinc-900">Biblioteca</h2>
+              <h1 className="text-3xl font-bold tracking-tight text-zinc-900">
+                Biblioteca
+              </h1>
               <p className="mt-1 text-sm text-zinc-500">
                 Registre sua experiência de leitura.
               </p>
